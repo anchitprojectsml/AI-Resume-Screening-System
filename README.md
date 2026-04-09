@@ -65,6 +65,25 @@ streamlit run app.py
 * Missing Skills: AWS, Docker
 * Top Candidates Ranking
 
+
+## 📊 Evaluation
+
+The system was tested on sample resume-job pairs.
+Typical similarity scores ranged between 60%–70% for relevant matches and lower for unrelated profiles.
+
+## ❓ Why SBERT?
+
+- Captures semantic meaning (context-aware)
+- Better than TF-IDF (keyword-based)
+- Works well for sentence similarity tasks
+
+## ⚠️ Limitations
+
+- PDF parsing may lose formatting
+- Skill extraction is keyword-based
+- Model performance may vary on real-world resumes
+- Does not handle bias or fairness explicitly
+
 ## 📂 Sample Data
 Sample resumes are included in the `sample_resumes` folder for testing.
 
