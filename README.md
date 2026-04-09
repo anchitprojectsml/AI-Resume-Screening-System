@@ -42,13 +42,27 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### 🏠 Home Screen
+![Home](screenshots/Home1.png)
 
+### 📄 Single Resume Analysis
+![Single1](screenshots/SingleResume1.png)
+![Single2](screenshots/SingleResume2.png)
+
+### 📊 Multiple Resume Ranking
+![Multiple](screenshots/MultipleResume1.png)
+![Ranking](screenshots/Ranking.png)
+
+### 📈 Visualization
+![Graph](screenshots/Bar Graph.png)
 ## 📊 Output Example
 
 * Match Score: 71%
 * Missing Skills: AWS, Docker
 * Top Candidates Ranking
+
+## 📂 Sample Data
+Sample resumes are included in the `sample_resumes` folder for testing.
 
 ## 💡 Future Improvements
 
