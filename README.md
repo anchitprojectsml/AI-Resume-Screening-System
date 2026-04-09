@@ -6,6 +6,10 @@ AI-powered Resume Screening System using BERT and NLP to match resumes with job 
 
 This project is an AI-powered Resume Screening System that helps recruiters analyze resumes and rank candidates based on job descriptions.
 
+## 🧪 Model Development
+
+The model was initially developed and tested using structured datasets in Jupyter Notebook (see `Resumenlp.ipynb`), and later integrated into a Streamlit application for real-world usage.
+
 ## 🎯 Features
 
 * Resume vs Job Description Matching
